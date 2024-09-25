@@ -4,10 +4,10 @@ This repository will go over how to flash the Raspberry Pi with the SD Card and 
 
 ## Installing Raspberry Pi Imager
 
-The first step will be to install the Raspberry Pi Imager. To do this, go to the following link and install:
+The first step will be to install the Raspberry Pi Imager. To do this, go to the following link, click on "Download for Windows" and install the .exe file
 
 [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 
-Click on "Download for Windows" and install the .exe file
+
 
 
