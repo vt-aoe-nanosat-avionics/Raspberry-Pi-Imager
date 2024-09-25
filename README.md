@@ -26,9 +26,11 @@ Next, go to choosing the OS, select "Other general-purpose OS", Ubuntu, and then
 
 ![alt text](https://github.com/vt-aoe-nanosat-avionics/Raspberry-Pi-Imager/blob/main/Images/Imager%20Ubuntu%20Desktop.JPG)
 
+Finally, click "Choose Storage" and select the device you want to flash the software. From here, click next and wait until the software is finished flashing onto the SD Card. You should have a new Ubuntu version flashed onto the SD Card from here. 
+
 # Installing on Pi and Setting Up
 
-Finally, click "Choose Storage" and select the device you want to flash the software. From here, click next and wait until the software is finished flashing onto the SD Card. From here, you should have a new Ubuntu version flashed onto the SD Card. 
+ 
 
 
 
