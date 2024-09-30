@@ -42,6 +42,6 @@ sudo apt update
 sudo apt upgrade
 sudo apt install git
  ```
-Restart the computer and you done!
+Restart the computer and you are done!
 
 
