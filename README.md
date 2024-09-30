@@ -35,10 +35,13 @@ Finally, click "Choose Storage" and select the device you want to flash the soft
 
  # Starting the Terminal
 
+Update linux and install git
+
  ```bash
 sudo apt update
 sudo apt upgrade
+sudo apt install git
  ```
-
+Restart the computer and you done!
 
 
