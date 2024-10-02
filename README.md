@@ -30,7 +30,18 @@ Finally, click "Choose Storage" and select the device you want to flash the soft
 
 # Installing on Pi and Setting Up
 
- 
+ Place the Micro SD Card back into the Pi. If nothing happens unplug the Rasberry Pi and plug it back in. Once the computer starts up go through the Ubuntu System Configuration.
+ English, English(US), VT Open WiFi, Virginia, and Create log-in information
 
+ # Starting the Terminal
+
+Update linux and install git
+
+ ```bash
+sudo apt update
+sudo apt upgrade
+sudo apt install git
+ ```
+Restart the computer and you are done!
 
 
